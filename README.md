@@ -10,19 +10,28 @@ Desarrollador backend con Python y Django. Desde diciembre de 2023 en Fedea S.A.
 
 ## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,redis,docker,git,linux,bash,postman,vscode" />
+**Lenguajes**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
+</p>
+
+**Tecnologías**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,mysql,sqlite,redis,docker" />
+</p>
+
+**Herramientas**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,bash,vscode,postman" />
 </p>
 
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alanmdza&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanmdza&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alanmdza&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Alanmdza&theme=dark&hide_border=true" />
 </p>
 
 ## Contacto
